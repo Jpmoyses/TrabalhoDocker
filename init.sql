@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS usuario (
     email VARCHAR(255) NOT NULL
 );
 
-INSERT INTO users (name, email) VALUES ('Joao Moyses', 'joao@exemplo.com');
+INSERT INTO usuario (nome, email) VALUES ('Joao Moyses', 'joao@exemplo.com');
